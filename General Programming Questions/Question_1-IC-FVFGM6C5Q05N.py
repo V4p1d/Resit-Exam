@@ -5,7 +5,7 @@ GeneralProgramming.py
 
 Functions performing operations on basic Python data structures.
 
-TOTAL POINTS AVAILABLE: 40 (notice that each exercise has its own weight, specified under the examples)
+TOTAL POINTS AVAILABLE: 42 (notice that each exercise has its own weight, specified under the examples)
 
 
 1 * weight points -  The program works flawlessly and the appropriate ideas to solve it, have been used.
@@ -27,11 +27,11 @@ or the program is largely incomplete.
 '''
 
 # Write a function to find the longest common prefix string amongst an array of strings.
-#If there is no common prefix, return an empty string ""
-#For example:
-#Input: strs = ["paraglider","paramount","parking"]
-#Output: "par"
-# WEIGHT = 
+# If there is no common prefix, return an empty string ""
+# For example:
+# Input: strs = ["paraglider","paramount","parking"]
+# Output: "par"
+# WEIGHT = 5
 
 def longPref():
     return

@@ -5,7 +5,7 @@ GeneralProgramming.py
 
 Functions performing operations on basic Python data structures.
 
-TOTAL POINTS AVAILABLE: 40 (notice that each exercise has its own weight, specified under the examples)
+TOTAL POINTS AVAILABLE: 42 (notice that each exercise has its own weight, specified under the examples)
 
 
 1 * weight points -  The program works flawlessly and the appropriate ideas to solve it, have been used.
@@ -26,13 +26,15 @@ or the program is largely incomplete.
 (e.g., blank page or solved something unrelated to the question).
 '''
 
-# Write a function to find the longest common prefix string amongst an array of strings.
-#If there is no common prefix, return an empty string ""
-#For example:
-#Input: strs = ["paraglider","paramount","parking"]
-#Output: "par"
-# WEIGHT = 
+# Write a function with two inputs arguments 'color', 'size'. The function should return
+# the string "The shirt is {color} and its size is {size}".
+# The argument "size" should default to "medium".
+# for example:
+# given inputs "blue", "large"
+# the function will return "The shirt is blue and its size is large".
+# given inputs "red"
+# the function will return "The shirt is red and its size is medium"
+# WEIGHT = 3
 
-def longPref():
+def colorSize():
     return
-        

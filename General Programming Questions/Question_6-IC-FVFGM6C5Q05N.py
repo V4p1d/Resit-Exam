@@ -5,7 +5,7 @@ GeneralProgramming.py
 
 Functions performing operations on basic Python data structures.
 
-TOTAL POINTS AVAILABLE: 40 (notice that each exercise has its own weight, specified under the examples)
+TOTAL POINTS AVAILABLE: 42 (notice that each exercise has its own weight, specified under the examples)
 
 
 1 * weight points -  The program works flawlessly and the appropriate ideas to solve it, have been used.
@@ -26,13 +26,13 @@ or the program is largely incomplete.
 (e.g., blank page or solved something unrelated to the question).
 '''
 
-# Write a function to find the longest common prefix string amongst an array of strings.
-#If there is no common prefix, return an empty string ""
-#For example:
-#Input: strs = ["paraglider","paramount","parking"]
-#Output: "par"
-# WEIGHT = 
+# Write a function that given an integer array nums and an integer val, 
+# remove all occurrences of val in nums. The relative order of the elements may be changed. 
+# For example:
+# nums = [1, 1, 3, 4, 6, 9], val = 3
+# output = [1, 1, 4, 6, 9]
 
-def longPref():
+# WEIGHT = 3
+
+def removeElement():
     return
-        

@@ -5,7 +5,7 @@ GeneralProgramming.py
 
 Functions performing operations on basic Python data structures.
 
-TOTAL POINTS AVAILABLE: 42 (notice that each exercise has its own weight, specified under the examples)
+TOTAL POINTS AVAILABLE: 40 (notice that each exercise has its own weight, specified under the examples)
 
 
 1 * weight points -  The program works flawlessly and the appropriate ideas to solve it, have been used.
@@ -31,11 +31,10 @@ or the program is largely incomplete.
 #                  1   2   1
 #                1   3   3   1
 #              1   4   6   4   1
-# Write a function that, given an integer m, returns the first m rows of the pascal triangle as a list of lists.
+# Write a function that, given an integet m, returns the first m rows of the pascal triangle as a list of lists.
 # For example:
 # m = 5
 # output = [[1],[1,1],[1,2,1],[1,3,3,1],[1,4,6,4,1]]
-# WEIGHT = 7
 
 def pascalTriangle():
     return

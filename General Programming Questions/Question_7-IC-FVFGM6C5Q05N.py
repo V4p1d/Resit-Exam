@@ -5,7 +5,7 @@ GeneralProgramming.py
 
 Functions performing operations on basic Python data structures.
 
-TOTAL POINTS AVAILABLE: 40 (notice that each exercise has its own weight, specified under the examples)
+TOTAL POINTS AVAILABLE: 42 (notice that each exercise has its own weight, specified under the examples)
 
 
 1 * weight points -  The program works flawlessly and the appropriate ideas to solve it, have been used.
@@ -26,13 +26,14 @@ or the program is largely incomplete.
 (e.g., blank page or solved something unrelated to the question).
 '''
 
-# Write a function to find the longest common prefix string amongst an array of strings.
-#If there is no common prefix, return an empty string ""
-#For example:
-#Input: strs = ["paraglider","paramount","parking"]
-#Output: "par"
-# WEIGHT = 
+# You are given an array prices where prices[i] is the price of a given stock on the ith day.
+# You want to maximize your profit by choosing a single day to buy one stock and choosing a different day in the future to sell that stock.
+# The order in which you buy and sell is important. 
+# Write a function that returns the maximum profit you can achieve from this transaction. If you cannot achieve any profit, return 0.
+# For example:
+# Input =  [7,1,5,3,6,4]
+# Output = 5 (buy on day 2, sell on day 5)
+# WEIGHT = 7
 
-def longPref():
+def maxProfit():
     return
-        

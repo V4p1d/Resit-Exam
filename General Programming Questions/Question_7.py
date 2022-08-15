@@ -5,7 +5,7 @@ GeneralProgramming.py
 
 Functions performing operations on basic Python data structures.
 
-TOTAL POINTS AVAILABLE: 42 (notice that each exercise has its own weight, specified under the examples)
+TOTAL POINTS AVAILABLE: 40 (notice that each exercise has its own weight, specified under the examples)
 
 
 1 * weight points -  The program works flawlessly and the appropriate ideas to solve it, have been used.
@@ -33,7 +33,8 @@ or the program is largely incomplete.
 # For example:
 # Input =  [7,1,5,3,6,4]
 # Output = 5 (buy on day 2, sell on day 5)
-# WEIGHT = 7
+# notice that, for instance in 14, 1 is odd and 4 is even, therefore 14 is not added to the list
+# WEIGHT = 
 
 def maxProfit():
     return

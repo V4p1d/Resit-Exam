@@ -95,13 +95,12 @@ class Student:
 # Write a a new class called "Cohort". The class will have two instance attributes called 'students' and 'mean', 
 # created in the constructor.
 #   - 'students' will be an empty list.
-#   - 'mean' will be a float initialised to 0.0
+#   - 'means' will be an empty dictionary.
 # The class Cohort will have two methods:
 # - one method called "add_student" with one parameter that will add to the list students an object "Student"
-# - one method called "compute_average_grade", with a parameter "subject" that will compute the mean of all the grades of the students
-#   enrolled in the subject "subject" (this method will ignore the students that are not enrolled in that specific subject)
-#       - if no students are enrolled in the subject "subject", the method will return None.
-
+# - one method called "compute_average_grades", this method will populate the dictionary "means" with a series of keys/values
+#   pairs. Each key will correspond to the subjects that the students in the cohort are enrolled into and the respective values will 
+#   be the arithmetic mean of the grades across all the students enrolled into that subject.
 
 
 class cohort:

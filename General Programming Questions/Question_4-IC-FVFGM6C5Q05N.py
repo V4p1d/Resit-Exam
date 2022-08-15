@@ -5,7 +5,7 @@ GeneralProgramming.py
 
 Functions performing operations on basic Python data structures.
 
-TOTAL POINTS AVAILABLE: 40 (notice that each exercise has its own weight, specified under the examples)
+TOTAL POINTS AVAILABLE: 42 (notice that each exercise has its own weight, specified under the examples)
 
 
 1 * weight points -  The program works flawlessly and the appropriate ideas to solve it, have been used.
@@ -25,14 +25,17 @@ or the program is largely incomplete.
 0 points - The student has not attempted to solve the exercise or missed the point entirely 
 (e.g., blank page or solved something unrelated to the question).
 '''
+# In a Pascal triangle, each number is the sum of the two numbers directly above it. For example 
+#                      1
+#                    1   1
+#                  1   2   1
+#                1   3   3   1
+#              1   4   6   4   1
+# Write a function that, given an integer m, returns the first m rows of the pascal triangle as a list of lists.
+# For example:
+# m = 5
+# output = [[1],[1,1],[1,2,1],[1,3,3,1],[1,4,6,4,1]]
+# WEIGHT = 7
 
-# Write a function to find the longest common prefix string amongst an array of strings.
-#If there is no common prefix, return an empty string ""
-#For example:
-#Input: strs = ["paraglider","paramount","parking"]
-#Output: "par"
-# WEIGHT = 
-
-def longPref():
+def pascalTriangle():
     return
-        

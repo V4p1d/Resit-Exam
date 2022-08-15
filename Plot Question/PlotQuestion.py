@@ -28,9 +28,10 @@ improved (e.g., the students used unnecessary if statements)
 # To get maximum marks you need to be sure that the code you write can be executed on a 
 # computer different than yours (meaning, do not use absolute paths when opening and closing directories).
 # 
-#   - Plot the data contained in the 3rd column against the data contained in the 8th column (i.e., 
-#   data in the 3rd column on the y axis, data in the 8th column on the x axis). This should be plotted in blue.
+#   - Plot the data contained in the 6th column against the data contained in the 1st column (i.e., 
+#   data in the 6th column on the y axis, data in the 1st column on the x axis). This should be plotted in blue.
 #   - Plot the data contained in the 5th column against the data contained in the 1st column (i.e., 
-#   data in the 5th column on the y axis, data in the 8th column on the x axis). This should be plotted in red.
-#   - Add an xlabel as "Time [s]" and a ylabel as "Force [N]"
+#   data in the 5th column on the y axis, data in the 1st column on the x axis). This should be plotted in red.
+#   - Add an xlabel as "Time [s]" and a ylabel as "Velocity [km/h]"
 #
+

@@ -5,7 +5,7 @@ GeneralProgramming.py
 
 Functions performing operations on basic Python data structures.
 
-TOTAL POINTS AVAILABLE: 40 (notice that each exercise has its own weight, specified under the examples)
+TOTAL POINTS AVAILABLE: 42 (notice that each exercise has its own weight, specified under the examples)
 
 
 1 * weight points -  The program works flawlessly and the appropriate ideas to solve it, have been used.
@@ -32,7 +32,7 @@ or the program is largely incomplete.
 # nums = [1, 1, 3, 4, 6, 9], val = 3
 # output = [1, 1, 4, 6, 9]
 
-# WEIGHT = 
+# WEIGHT = 3
 
 def removeElement():
     return

@@ -25,8 +25,8 @@ __NOTE__: If you do not use git to push your code to the correct repository with
 
 The questions are located into three subfolders:
 
-1. Class question: write and implement a class with its own methods (50 points overall);
-2. General programming question: write 8 functions (40 points overall);
+1. Class question: write and implement a class with its own methods (48 points overall);
+2. General programming question: write 8 functions (42 points overall);
 3. Plot question: generate the correct plot by extracting the correct data from a file (10 points overall).
 
 In each folder you will find the python files (.py) that you need to work on for the exam.
